@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![walkthrough1](https://user-images.githubusercontent.com/108023931/195013113-f527f4cb-be17-41d7-8667-381cb5c8d809.gif)
+
+![walkthrough1](https://user-images.githubusercontent.com/108023931/195013457-908e1b84-0570-499e-9c75-fb5795cbb785.gif)
 
 
 ## Notes
